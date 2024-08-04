@@ -4,6 +4,4 @@ This is a RAW manga collection adapted from Visual Arts/Key's works and some rel
 
 The collection serves as a 'manga bank' solely for the purpose of facilitating the translation of Key's manga into multiple languages. Please do not use the RAW versions for commercial purposes or any other activities that infringe on copyright.
 
-This library is for common use.
-
-Last updated: 2024-08-04
+Scanned, uploaded, and collected by Vietnam Key FanClub<br />Last updated: 2024-08-04
