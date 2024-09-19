@@ -10,4 +10,5 @@ Scanned, collected, and uploaded by Vietnam Key FanClub<br />Last updated: 2024-
 <ul>
 <li><s>add direct scan versions for the set of 3 "Little Busters! Ecstasy" manga by ZEN, as the current versions have relatively low resolution.</s> done</li>
 <li><s>add "Little Busters! Noumi Kudryavka" (4 volumes) and "Little Busters! Ecstasy: Wonderbit Wandering" (3 volumes).</s> done</li>
+<li>add digital version for "Summer Pockets" side stories.</li>
 </ul>
